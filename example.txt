@@ -1,0 +1,6 @@
+Trying:
+    R321 = room(14,4,4)
+    R321.GetArea()
+Expecting:
+    14
+ok
